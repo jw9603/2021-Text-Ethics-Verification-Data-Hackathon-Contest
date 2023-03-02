@@ -6,4 +6,4 @@
 - Re-learning with tokenizer vocab train data using BPE >> Model easily learns contextual knowledge by better considering domain characteristics
 - http://aihumanities.org/niatext/hackathon/
 - This is the github address of a colleague.
- - https://github.com/rrr-jh
+  - https://github.com/rrr-jh
